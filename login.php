@@ -1,5 +1,7 @@
 <!DOCTYPE html>
-<html>
+<?php
+	
+	/*<html>
 	<head>
 		<title></title>
 		<!-- <link rel="stylesheet" type="text/css" href="css/form.css"> -->
@@ -7,14 +9,15 @@
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
 		<link rel="stylesheet" type="text/css" href="css/loginAndRegister.css">
-        
+          <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+
 	</head>
 	<body>
 	</body>
 	<header>
 <nav>
             <div class="nav-wrapper">
-              <a href="#!" class="brand-logo"><img src="ulmlogo.png" alt="logo" class="logo" ></a>
+              <a href="#!" class="brand-logo"><img src="/img/ulmlogo.png" alt="logo" class="logo" ></a>
               <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
               <ul class="right hide-on-med-and-down">
                 <li><a href="">Home</a></li>
@@ -33,6 +36,12 @@
 
 <!-- Main body begins-->
 <main>
+	
+</div>
+*/
+include "top_header.php";
+?>
+
 <div class="container white z-depth-2">
 	<div class="tablist" >
 	<ul class="tabs teal">
